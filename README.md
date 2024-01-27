@@ -6,9 +6,7 @@
 ¡Bienvenido a mi espacio en GitHub! Soy un Desarrollador Web Full-Stack apasionado por la innovación y un estudiante en el campo inmobiliario.
 
 ### 🚀 Tecnologías
-
-- ![image](https://github.com/ClaudioBarlassina/ClaudioBarlassina/assets/111208788/4c27e0c3-a3a2-468d-993c-28215e773b34)
- | CSS | JavaScript
+- HTML | CSS | JavaScript
 - NodeJS | React | Redux
 - PostgreSQL | Express | Git
 
