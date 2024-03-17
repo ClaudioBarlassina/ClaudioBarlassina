@@ -1,19 +1,20 @@
 
 # ¡Hola! Soy Claudio Barlassina 👋
 
-## Desarrollador Web Full-Stack | Estudiante de Martillero Público-Corredor Inmobiliario
+## Desarrollador Web Full-Stack 
 
-¡Bienvenido a mi espacio en GitHub! Soy un Desarrollador Web Full-Stack apasionado por la innovación y un estudiante en el campo inmobiliario.
+¡Bienvenido a mi espacio en GitHub! Soy un Desarrollador Web Full-Stack apasionado por la innovación 
 
 ### 🚀 Tecnologías
 - HTML | CSS | JavaScript
 - NodeJS | React | Redux
 - PostgreSQL | Express | Git
+- Java Advanced
 
 ### 🎓 Formación
 
 - Desarrollador Web Full-Stack en HENRY
-- Estudiante de Martillero Público-Corredor Inmobiliario en la Universidad Empresarial Siglo XXI
+- Java Advanced
 
 ### 🔧 Herramientas
 
@@ -26,6 +27,6 @@ Creo en la importancia de la colaboración efectiva y la comunicación clara. Di
 ### 📬 Conéctate conmigo
 
 - Email: Claudio_Barlassina_ar@hotmail.com
-- GitHub: [ClaudioBarlassina](https://github.com/ClaudioBarlassina)
+- GitHub: [ClaudioBarlassina](https://www.linkedin.com/in/claudiobarlassina/)
 
 ¡Emocionado por contribuir al éxito de proyectos y colaborar con profesionales apasionados! 😊
