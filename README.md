@@ -14,7 +14,7 @@
 ### 🎓 Formación
 
 - Desarrollador Web Full-Stack en HENRY
-- Java Advanced
+- Java Advanced en Educacion IT
 
 ### 🔧 Herramientas
 
