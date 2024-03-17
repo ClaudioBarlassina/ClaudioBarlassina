@@ -27,6 +27,6 @@ Creo en la importancia de la colaboración efectiva y la comunicación clara. Di
 ### 📬 Conéctate conmigo
 
 - Email: Claudio_Barlassina_ar@hotmail.com
-- GitHub: [ClaudioBarlassina](https://www.linkedin.com/in/claudiobarlassina/)
+- LinkedInd: [ClaudioBarlassina](https://www.linkedin.com/in/claudiobarlassina/)
 
 ¡Emocionado por contribuir al éxito de proyectos y colaborar con profesionales apasionados! 😊
