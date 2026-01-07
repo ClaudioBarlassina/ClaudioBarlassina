@@ -1,32 +1,62 @@
+# Hi, I'm Claudio Barlassina 👋
 
-# ¡Hola! Soy Claudio Barlassina 👋
+[🇪🇸 Leer en Español](README.es.md)
 
-## Desarrollador Web Full-Stack 
+## Full-Stack Web Developer
 
-¡Bienvenido a mi espacio en GitHub! Soy un Desarrollador Web Full-Stack apasionado por la innovación 
+Full-Stack Developer focused on building **scalable, user-centered web applications**.  
+I specialize in developing **e-commerce platforms, admin dashboards, and management systems**, working across both frontend and backend.
 
-### 🚀 Tecnologías
+I enjoy writing clean, maintainable code and solving real-world problems with practical solutions.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
 - HTML | CSS | JavaScript
-- NodeJS | React | Redux
-- PostgreSQL | Express | Git
-- Java Advanced
+- React | Zustand
 
-### 🎓 Formación
+**Backend & Services**
+- Node.js | Express
+- PostgreSQL
+- Supabase (Auth, Database, Storage)
 
-- Desarrollador Web Full-Stack en HENRY
-- Java Advanced en Educacion IT
+**Other**
+- Git | Agile methodologies
+- Java (Advanced)
 
-### 🔧 Herramientas
+---
 
-Metodologías ágiles | Git
+## 🚀 What I Do
 
-### 🤝 Colaboración
+- Build full-stack web applications
+- State management with Redux and Zustand
+- User authentication and authorization (Supabase)
+- Shopping carts and order management
+- Admin dashboards
+- REST API integration
+- Application deployment
 
-Creo en la importancia de la colaboración efectiva y la comunicación clara. Disfruto trabajando en equipos multidisciplinarios.
+---
 
-### 📬 Conéctate conmigo
+## 🎓 Education
 
-- Email: Claudio_Barlassina_ar@hotmail.com
-- LinkedIn: [ClaudioBarlassina](https://www.linkedin.com/in/claudiobarlassina/)
+- Full-Stack Web Developer – Henry  
+- Java Advanced – Educación IT
 
-¡Emocionado por contribuir al éxito de proyectos y colaborar con profesionales apasionados! 😊
+---
+
+## 📂 Featured Projects
+
+Check out my pinned repositories to see real-world projects including:
+- E-commerce applications
+- Admin panels with authentication
+- React apps using Zustand and Supabase
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/ClaudioBarlassina
+- LinkedIn: *(add link here)*
