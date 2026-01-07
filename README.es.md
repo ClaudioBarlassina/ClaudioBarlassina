@@ -60,4 +60,4 @@ Podés ver mis proyectos en los repositorios fijados de este perfil, incluyendo:
 ## 📫 Contacto
 
 - GitHub: https://github.com/ClaudioBarlassina
-- LinkedIn: *(agregalo acá)*
+- LinkedIn: https://www.linkedin.com/in/claudiobarlassina
