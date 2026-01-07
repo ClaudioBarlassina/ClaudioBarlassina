@@ -59,4 +59,4 @@ Check out my pinned repositories to see real-world projects including:
 ## 📫 Contact
 
 - GitHub: https://github.com/ClaudioBarlassina
-- LinkedIn: *(add link here)*
+- LinkedIn: https://www.linkedin.com/in/claudiobarlassina
