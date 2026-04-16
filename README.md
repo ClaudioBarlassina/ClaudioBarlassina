@@ -7,56 +7,61 @@
 Full-Stack Developer focused on building **scalable, user-centered web applications**.  
 I specialize in developing **e-commerce platforms, admin dashboards, and management systems**, working across both frontend and backend.
 
-I enjoy writing clean, maintainable code and solving real-world problems with practical solutions.
+I have experience building complete solutions including **authentication, payments, and real-time features**, always aiming for clean, maintainable, and production-ready code.
 
 ---
 
 ## 🛠 Tech Stack
 
 **Frontend**
-- HTML | CSS | JavaScript
-- React | Zustand
+- HTML | CSS | JavaScript  
+- React | Zustand  
 
 **Backend & Services**
-- Node.js | Express
-- PostgreSQL
-- Supabase (Auth, Database, Storage)
+- Node.js | Express  
+- MongoDB | PostgreSQL  
+- Supabase (Auth, Database, Storage)  
+- Firebase (Authentication)  
+- Stripe (Payments)  
 
 **Other**
-- Git | Agile methodologies
-- Java (Advanced)
+- Git | Agile methodologies  
+- REST APIs  
+- Java (Advanced)  
 
 ---
 
 ## 🚀 What I Do
 
-- Build full-stack web applications
-- State management with Redux and Zustand
-- User authentication and authorization (Supabase)
-- Shopping carts and order management
-- Admin dashboards
-- REST API integration
-- Application deployment
+- Build full-stack web applications  
+- Design and consume REST APIs  
+- Implement authentication systems (Supabase, Firebase)  
+- Integrate online payments (Stripe)  
+- Develop shopping carts and order management systems  
+- Create admin dashboards and management panels  
+- State management with Zustand and Redux  
+- Deploy applications (Vercel, Render)  
 
 ---
 
 ## 🎓 Education
 
 - Full-Stack Web Developer – Henry  
-- Java Advanced – Educación IT
+- Java Advanced – Educación IT  
 
 ---
 
 ## 📂 Featured Projects
 
 Check out my pinned repositories to see real-world projects including:
-- E-commerce applications
-- Admin panels with authentication
-- React apps using Zustand and Supabase
+
+- 🛒 Full Stack eCommerce with Stripe integration  
+- 📊 Admin dashboards with authentication  
+- ⚡ React apps using Zustand and Supabase  
 
 ---
 
 ## 📫 Contact
 
-- GitHub: https://github.com/ClaudioBarlassina
-- LinkedIn: https://www.linkedin.com/in/claudiobarlassina
+- GitHub: https://github.com/ClaudioBarlassina  
+- LinkedIn: https://www.linkedin.com/in/claudiobarlassina  
